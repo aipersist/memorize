@@ -1,0 +1,2 @@
+# memorize
+note taking app
